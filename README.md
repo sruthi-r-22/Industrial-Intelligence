@@ -105,10 +105,10 @@ IndustrialKnowledgeBrain/
 ├── requirements.txt
 ├── architecture.png
 ├── screenshots/
-│   ├── home.png
-│   ├── upload.png
-│   └── answer.png
-└── report.pdf
+  ├── home.png
+  ├── upload.png
+  └── answer.png
+
 ```
 
 ---
