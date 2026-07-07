@@ -144,16 +144,26 @@ streamlit run app.py
 ## Application Screenshots
 
 ### Home Page
-Displays the main interface where users can upload industrial PDF documents and ask questions.
-*(Insert screenshot)*
+
+The landing page of the Industrial Knowledge Brain application.
+
+![Home Page](screenshots/home.png)
+
+---
 
 ### Upload PDF
-Users can upload one or more PDF documents for processing.
-*(Insert screenshot)*
 
-### AI Answer
-The application retrieves the most relevant information from the uploaded document and generates an AI-powered 
-*(Insert screenshot)*
+Users can upload industrial PDF documents for processing and knowledge extraction.
+
+![Upload PDF](screenshots/upload.png)
+
+---
+
+### AI Response
+
+The system retrieves the most relevant document chunk and uses Google Gemini AI to generate a context-aware response.
+
+![AI Response](screenshots/answer.png)
 
 ---
 
