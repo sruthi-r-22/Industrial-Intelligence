@@ -45,10 +45,6 @@ The application combines document processing with Google's Gemini AI to provide 
 
 ## System Architecture
 
-> *(Insert your architecture diagram here)*
-
-Example:
-
 ![Architecture](architecture.png)
 
 ---
